@@ -1,0 +1,10 @@
+streamlit
+roboflow
+numpy
+pandas
+openpyxl
+flask
+schedule
+json
+tempfile
+pillow
